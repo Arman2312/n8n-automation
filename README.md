@@ -47,6 +47,7 @@ The workflow automates patient assessment and guidance processes by analyzing pa
 - `screenshots/` – Workflow screenshots and visuals
 
   ## Workflow Screenshot
+  https://github.com/Arman2312/n8n-automation/blob/main/n8n%20workflow.jpg?raw=true
 
 
 ## Internship Information
