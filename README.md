@@ -46,6 +46,9 @@ The workflow automates patient assessment and guidance processes by analyzing pa
 - `README.md` – Project documentation
 - `screenshots/` – Workflow screenshots and visuals
 
+  ## Workflow Screenshot
+
+
 ## Internship Information
 
 This project was developed during the **IBM AI Automation and Business Strategy Internship**, where the focus was on leveraging AI and automation technologies to solve real-world business and operational challenges.
